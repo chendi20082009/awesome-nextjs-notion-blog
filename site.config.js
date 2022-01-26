@@ -1,10 +1,10 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'd0bdecd407134336b36ebfd8ed6d87a4',
+  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: true,
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: '我的公开笔记本',
